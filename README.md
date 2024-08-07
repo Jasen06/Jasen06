@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> Boitumelo Jasen Malatjie</h3>
 
 ###
 
-<h3 align="left">My name : Boitumelo Jasen Malatjie</h3>
+<h2 align="left">Software Developer || Cloud Engineer</h1>
 
 ###
 
