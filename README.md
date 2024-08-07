@@ -1,20 +1,11 @@
-<h1 align="left"> Boitumelo Jasen Malatjie</h3>
+<h1 align="left">Hi there 👋 I'M Boitumelo Jasen Malatjie</h3>
+
+###
+<h3 align="left">Software Developer || Cloud Engineer</h1>
 
 ###
 
-<h2 align="left">Software Developer || Cloud Engineer</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently completing my Studies<br>🎯 Goals: To Improve the quality of life through coding</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
